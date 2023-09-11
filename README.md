@@ -1,1 +1,1 @@
-# hfg-offenbach-workshop2
+# HfG Offenbach - Workshop 
