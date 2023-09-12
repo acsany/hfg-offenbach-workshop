@@ -6,3 +6,4 @@ font = TTFont(FONTPATH)
 glyphset = font.getGlyphSet()
 for glyph in glyphset:
     print(glyph)
+print(len(glyphset))
