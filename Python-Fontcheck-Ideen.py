@@ -12,7 +12,7 @@ Vertikale Metriken
     Diacritics auf jeden Fall mit einbeziehen
     
 Spacing Check
-    Dezimalprüfung
+    Dezimalprüfung (Spacing nur in 10er Schritten)
     Threshold: Sticht was raus?
     
 Kerning Check
