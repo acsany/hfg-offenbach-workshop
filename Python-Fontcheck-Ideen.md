@@ -1,34 +1,34 @@
 # PYTHON FONTCHECK
 Grundsätzliche Unterschedung zwischen Anwendung in Produktion und nach Export
 
-## Outline
+## Outline - Samuel
 - Pfade geschlossen?
 - Pfadrichtung?
 - Extrempunkte gesetzt
 - Leere Glyphen? (Soll Form enthalten/Soll keine Form enthalten (bspw. Spaces))
 
-## Charset Check
+## Charset Check - Sophia
 - (...) fehlt (Minimal Anforderung, Basic Standard)
 - Was geht über den Standard hinaus?
 - Prüfung über Booleans
 - Abgleich mit Sprachliste
 - Standardziffernsätze (Versal/Proportional)
 
-## Vertikale Metriken
+## Vertikale Metriken - Johanna/Lennart
 - Mindestens mal Output (Konsistenz über Master prüfen)
 - Gegenrechnen (Max), 
 - Diacritics auf jeden Fall mit einbeziehen
     
-## Spacing Check
+## Spacing Check - Philipp
 - Dezimalprüfung (Spacing nur in 10er Schritten)
 - Threshold: Sticht was raus?
 - Breite des Leerzeichens (Whitespace)
     
-## Kerning Check
+## Kerning Check - Sophia
 - Liste Ausgeben (+ Paare, - Paare)
 - Überlappungs-Alarm (Boolean auf Pfade?)
 
-## Sonstiges
+## Sonstiges - Samuel
 - Units für Textschriften/Displayschriften
 - Sind Combs richtig angelegt?
 - OT-Feature Report
